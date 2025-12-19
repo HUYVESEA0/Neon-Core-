@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 93f21ab8f1ebff84580718409b1e2644
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3164992026758636159
+    second: rubble-8-0_0
+  - first:
+      213: 5874251191200236966
+    second: rubble-8-0_1
+  - first:
+      213: 461023201239254680
+    second: rubble-8-0_2
+  - first:
+      213: 1903049790000898258
+    second: rubble-8-0_3
+  - first:
+      213: -3673312275017281099
+    second: rubble-8-0_4
+  - first:
+      213: 6788810748081981789
+    second: rubble-8-0_5
+  - first:
+      213: -2114464748540145378
+    second: rubble-8-0_6
+  - first:
+      213: -4781165046971246634
+    second: rubble-8-0_7
+  - first:
+      213: -9117419099591866791
+    second: rubble-8-0_8
+  - first:
+      213: 5143753369261710706
+    second: rubble-8-0_9
+  - first:
+      213: -2332389642949910166
+    second: rubble-8-0_10
+  - first:
+      213: 4108761740109708775
+    second: rubble-8-0_11
+  - first:
+      213: 3017291900216088797
+    second: rubble-8-0_12
+  - first:
+      213: 3593322989984608597
+    second: rubble-8-0_13
+  - first:
+      213: 3326600158416928552
+    second: rubble-8-0_14
+  - first:
+      213: 4357479538182968210
+    second: rubble-8-0_15
+  - first:
+      213: -9155642310898298991
+    second: rubble-8-0_16
+  - first:
+      213: 6328476474011069450
+    second: rubble-8-0_17
+  - first:
+      213: 4548863184920843960
+    second: rubble-8-0_18
+  - first:
+      213: 6656064918668091072
+    second: rubble-8-0_19
+  - first:
+      213: 2882526850820165007
+    second: rubble-8-0_20
+  - first:
+      213: -7941507300486269302
+    second: rubble-8-0_21
+  - first:
+      213: -5220514778763369459
+    second: rubble-8-0_22
+  - first:
+      213: 3979956204792602249
+    second: rubble-8-0_23
+  - first:
+      213: -5495933987958100415
+    second: rubble-8-0_24
+  - first:
+      213: 48854939971703024
+    second: rubble-8-0_25
+  - first:
+      213: 7221637698358552989
+    second: rubble-8-0_26
+  - first:
+      213: 8364011505067464983
+    second: rubble-8-0_27
+  - first:
+      213: 3201841709791964823
+    second: rubble-8-0_28
+  - first:
+      213: 7634487612706753144
+    second: rubble-8-0_29
+  - first:
+      213: -7707775942943407317
+    second: rubble-8-0_30
+  - first:
+      213: -4787595079857260351
+    second: rubble-8-0_31
+  - first:
+      213: 606246620681543630
+    second: rubble-8-0_32
+  - first:
+      213: 3551902783679621504
+    second: rubble-8-0_33
+  - first:
+      213: -4812167838878551635
+    second: rubble-8-0_34
+  - first:
+      213: 337584635673400057
+    second: rubble-8-0_35
+  - first:
+      213: -5542804705884430040
+    second: rubble-8-0_36
+  - first:
+      213: -8238141835641811340
+    second: rubble-8-0_37
+  - first:
+      213: 4880030080517784623
+    second: rubble-8-0_38
+  - first:
+      213: -3727049136942933470
+    second: rubble-8-0_39
+  - first:
+      213: 2245977855985667095
+    second: rubble-8-0_40
+  - first:
+      213: -6437605045623599910
+    second: rubble-8-0_41
+  - first:
+      213: -6361899403828404610
+    second: rubble-8-0_42
+  - first:
+      213: -4085183981314421652
+    second: rubble-8-0_43
+  - first:
+      213: -1506976777285473832
+    second: rubble-8-0_44
+  - first:
+      213: 6735482726366674423
+    second: rubble-8-0_45
+  - first:
+      213: 7113754276489478331
+    second: rubble-8-0_46
+  - first:
+      213: 41700113579163636
+    second: rubble-8-0_47
+  - first:
+      213: 2674151875036410767
+    second: rubble-8-0_48
+  - first:
+      213: 7493433018782890080
+    second: rubble-8-0_49
+  - first:
+      213: 4419568664712038361
+    second: rubble-8-0_50
+  - first:
+      213: -983668365911589718
+    second: rubble-8-0_51
+  - first:
+      213: 4954183150294569848
+    second: rubble-8-0_52
+  - first:
+      213: -2148462530476804632
+    second: rubble-8-0_53
+  - first:
+      213: -2827845250683302969
+    second: rubble-8-0_54
+  - first:
+      213: 7377239552560608020
+    second: rubble-8-0_55
+  - first:
+      213: -8547103404791878708
+    second: rubble-8-0_56
+  - first:
+      213: 4978118417676720688
+    second: rubble-8-0_57
+  - first:
+      213: -9144203038688943264
+    second: rubble-8-0_58
+  - first:
+      213: -3807762852480937836
+    second: rubble-8-0_59
+  - first:
+      213: -6153594344999668561
+    second: rubble-8-0_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rubble-8-0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7264efba7f4ceb20800000000000000
+      internalID: 3164992026758636159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 246
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5c7e4d558858150800000000000000
+      internalID: 5874251191200236966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 247
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896441fa822e56600800000000000000
+      internalID: 461023201239254680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 247
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0a2e283bdf86a10800000000000000
+      internalID: 1903049790000898258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 247
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1538aa2f5c50dc0800000000000000
+      internalID: -3673312275017281099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 243
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59c7ce1863b63e50800000000000000
+      internalID: 6788810748081981789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 210
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11dd2d9389e7a2e0800000000000000
+      internalID: -2114464748540145378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 235
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7d3c2b8b3e5adb0800000000000000
+      internalID: -4781165046971246634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956077492ab687180800000000000000
+      internalID: -9117419099591866791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 229
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1013cf68426740800000000000000
+      internalID: 5143753369261710706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ab2e2affa1afd0800000000000000
+      internalID: -2332389642949910166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed74f19801450930800000000000000
+      internalID: 4108761740109708775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd81b083ff29fd920800000000000000
+      internalID: 3017291900216088797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f64d983c0ed130800000000000000
+      internalID: 3593322989984608597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ff23018357a2e20800000000000000
+      internalID: 3326600158416928552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293dd659d80e87c30800000000000000
+      internalID: 4357479538182968210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fce50b3df90f080800000000000000
+      internalID: -9155642310898298991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 187
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca8dac2d343d750800000000000000
+      internalID: 6328476474011069450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61f0d37fec02f30800000000000000
+      internalID: 4548863184920843960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 195
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce962737c71f5c50800000000000000
+      internalID: 6656064918668091072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 176
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d49a606eac00820800000000000000
+      internalID: 2882526850820165007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a863855af291ac190800000000000000
+      internalID: -7941507300486269302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04e12bd7710d87b0800000000000000
+      internalID: -5220514778763369459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e5640e415ab3730800000000000000
+      internalID: 3979956204792602249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 150
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ee2ca18258ab3b0800000000000000
+      internalID: -5495933987958100415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 152
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0598e1f419da000800000000000000
+      internalID: 48854939971703024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d992b3b8939683460800000000000000
+      internalID: 7221637698358552989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71993d04620f21470800000000000000
+      internalID: 8364011505067464983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eed2b221a3f6c20800000000000000
+      internalID: 3201841709791964823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a8185d80623f960800000000000000
+      internalID: 7634487612706753144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 130
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238e801e9a780590800000000000000
+      internalID: -7707775942943407317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c833b004ab0f8db0800000000000000
+      internalID: -4787595079857260351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1108e612d96800800000000000000
+      internalID: 606246620681543630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e1f153c4ea4130800000000000000
+      internalID: 3551902783679621504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 92
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b514b8deb73db0800000000000000
+      internalID: -4812167838878551635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f251f200775fa400800000000000000
+      internalID: 337584635673400057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821256eac700413b0800000000000000
+      internalID: -5542804705884430040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 79
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e0945e5ad3cad80800000000000000
+      internalID: -8238141835641811340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cb72b08959b340800000000000000
+      internalID: 4880030080517784623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 65
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a17148e8cd64cc0800000000000000
+      internalID: -3727049136942933470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c4b67d5f05b2f10800000000000000
+      internalID: 2245977855985667095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc753a15809a6a0800000000000000
+      internalID: -6437605045623599910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ed902f23ef5b7a0800000000000000
+      internalID: -6361899403828404610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c43af20d28e47c0800000000000000
+      internalID: -4085183981314421652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 55
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e229fa94261be0800000000000000
+      internalID: -1506976777285473832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd7ddf7add397d50800000000000000
+      internalID: 6735482726366674423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0429df2d129b260800000000000000
+      internalID: 7113754276489478331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffbaf84806249000800000000000000
+      internalID: 41700113579163636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837dfa46fe7c1520800000000000000
+      internalID: 2674151875036410767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068bcb0f0a50ef760800000000000000
+      internalID: 7493433018782890080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7cb90e846755d30800000000000000
+      internalID: 4419568664712038361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacfc0935de4952f0800000000000000
+      internalID: -983668365911589718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_52
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739889a35bc0c440800000000000000
+      internalID: 4954183150294569848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e571b926b02f22e0800000000000000
+      internalID: -2148462530476804632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0f312ab971c8d0800000000000000
+      internalID: -2827845250683302969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41336596948316660800000000000000
+      internalID: 7377239552560608020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb29d2ecb6926980800000000000000
+      internalID: -8547103404791878708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a537f5354d51540800000000000000
+      internalID: 4978118417676720688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 94
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e5ecc8c3491180800000000000000
+      internalID: -9144203038688943264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49012fc2cdb182bc0800000000000000
+      internalID: -3807762852480937836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubble-8-0_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4317edb8a0a9aa0800000000000000
+      internalID: -6153594344999668561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rubble-8-0_0: 3164992026758636159
+      rubble-8-0_1: 5874251191200236966
+      rubble-8-0_10: -2332389642949910166
+      rubble-8-0_11: 4108761740109708775
+      rubble-8-0_12: 3017291900216088797
+      rubble-8-0_13: 3593322989984608597
+      rubble-8-0_14: 3326600158416928552
+      rubble-8-0_15: 4357479538182968210
+      rubble-8-0_16: -9155642310898298991
+      rubble-8-0_17: 6328476474011069450
+      rubble-8-0_18: 4548863184920843960
+      rubble-8-0_19: 6656064918668091072
+      rubble-8-0_2: 461023201239254680
+      rubble-8-0_20: 2882526850820165007
+      rubble-8-0_21: -7941507300486269302
+      rubble-8-0_22: -5220514778763369459
+      rubble-8-0_23: 3979956204792602249
+      rubble-8-0_24: -5495933987958100415
+      rubble-8-0_25: 48854939971703024
+      rubble-8-0_26: 7221637698358552989
+      rubble-8-0_27: 8364011505067464983
+      rubble-8-0_28: 3201841709791964823
+      rubble-8-0_29: 7634487612706753144
+      rubble-8-0_3: 1903049790000898258
+      rubble-8-0_30: -7707775942943407317
+      rubble-8-0_31: -4787595079857260351
+      rubble-8-0_32: 606246620681543630
+      rubble-8-0_33: 3551902783679621504
+      rubble-8-0_34: -4812167838878551635
+      rubble-8-0_35: 337584635673400057
+      rubble-8-0_36: -5542804705884430040
+      rubble-8-0_37: -8238141835641811340
+      rubble-8-0_38: 4880030080517784623
+      rubble-8-0_39: -3727049136942933470
+      rubble-8-0_4: -3673312275017281099
+      rubble-8-0_40: 2245977855985667095
+      rubble-8-0_41: -6437605045623599910
+      rubble-8-0_42: -6361899403828404610
+      rubble-8-0_43: -4085183981314421652
+      rubble-8-0_44: -1506976777285473832
+      rubble-8-0_45: 6735482726366674423
+      rubble-8-0_46: 7113754276489478331
+      rubble-8-0_47: 41700113579163636
+      rubble-8-0_48: 2674151875036410767
+      rubble-8-0_49: 7493433018782890080
+      rubble-8-0_5: 6788810748081981789
+      rubble-8-0_50: 4419568664712038361
+      rubble-8-0_51: -983668365911589718
+      rubble-8-0_52: 4954183150294569848
+      rubble-8-0_53: -2148462530476804632
+      rubble-8-0_54: -2827845250683302969
+      rubble-8-0_55: 7377239552560608020
+      rubble-8-0_56: -8547103404791878708
+      rubble-8-0_57: 4978118417676720688
+      rubble-8-0_58: -9144203038688943264
+      rubble-8-0_59: -3807762852480937836
+      rubble-8-0_6: -2114464748540145378
+      rubble-8-0_60: -6153594344999668561
+      rubble-8-0_7: -4781165046971246634
+      rubble-8-0_8: -9117419099591866791
+      rubble-8-0_9: 5143753369261710706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

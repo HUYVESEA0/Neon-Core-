@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: a32509f50cb452046a8bbc634f4528ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8309937955916173819
+    second: core-acropolis-team_0
+  - first:
+      213: -3220200815957044917
+    second: core-acropolis-team_1
+  - first:
+      213: 5450419382364850763
+    second: core-acropolis-team_2
+  - first:
+      213: -982809245640883166
+    second: core-acropolis-team_3
+  - first:
+      213: 1070365167473910288
+    second: core-acropolis-team_4
+  - first:
+      213: -3826180861263243768
+    second: core-acropolis-team_5
+  - first:
+      213: 6358510556186488706
+    second: core-acropolis-team_6
+  - first:
+      213: -759296344691907193
+    second: core-acropolis-team_7
+  - first:
+      213: -6512481936753673916
+    second: core-acropolis-team_8
+  - first:
+      213: 9089639209660695584
+    second: core-acropolis-team_9
+  - first:
+      213: 6388395273455360694
+    second: core-acropolis-team_10
+  - first:
+      213: 8191507466688628029
+    second: core-acropolis-team_11
+  - first:
+      213: 502439222797870476
+    second: core-acropolis-team_12
+  - first:
+      213: -8634767138668704960
+    second: core-acropolis-team_13
+  - first:
+      213: 5229004203907085112
+    second: core-acropolis-team_14
+  - first:
+      213: -4687339222607244695
+    second: core-acropolis-team_15
+  - first:
+      213: 5747918656160432058
+    second: core-acropolis-team_16
+  - first:
+      213: 1274796894188418175
+    second: core-acropolis-team_17
+  - first:
+      213: 196610197227125002
+    second: core-acropolis-team_18
+  - first:
+      213: 8479684245570469854
+    second: core-acropolis-team_19
+  - first:
+      213: 7875884463430229964
+    second: core-acropolis-team_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: core-acropolis-team_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf15beffa84d25370800000000000000
+      internalID: 8309937955916173819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 131
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4115735b6c8f43d0800000000000000
+      internalID: -3220200815957044917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 131
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac2cafc87c3ab40800000000000000
+      internalID: 5450419382364850763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 131
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2240b9fb23c5c52f0800000000000000
+      internalID: -982809245640883166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 131
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012eb33e273bade00800000000000000
+      internalID: 1070365167473910288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806910657cca6eac0800000000000000
+      internalID: -3826180861263243768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f211a79a7fd3850800000000000000
+      internalID: 6358510556186488706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 116
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e2675fff6675f0800000000000000
+      internalID: -759296344691907193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44936a1ee240f95a0800000000000000
+      internalID: -6512481936753673916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c944c3b2e42e70800000000000000
+      internalID: 9089639209660695584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 102
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba571f67a328a850800000000000000
+      internalID: 6388395273455360694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358fe6f3a41ea170800000000000000
+      internalID: 8191507466688628029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c852714afc509f600800000000000000
+      internalID: 502439222797870476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8f6d49052b2880800000000000000
+      internalID: -8634767138668704960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833f7e67e97219840800000000000000
+      internalID: 5229004203907085112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9625db6cfc933feb0800000000000000
+      internalID: -4687339222607244695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 31
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf78426095b4cf40800000000000000
+      internalID: 5747918656160432058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f743fd6650df0b110800000000000000
+      internalID: 1274796894188418175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0931f4ceef7ab200800000000000000
+      internalID: 196610197227125002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf34b0e4e3eda570800000000000000
+      internalID: 8479684245570469854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core-acropolis-team_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd6c6f033cc4d60800000000000000
+      internalID: 7875884463430229964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      core-acropolis-team_0: 8309937955916173819
+      core-acropolis-team_1: -3220200815957044917
+      core-acropolis-team_10: 6388395273455360694
+      core-acropolis-team_11: 8191507466688628029
+      core-acropolis-team_12: 502439222797870476
+      core-acropolis-team_13: -8634767138668704960
+      core-acropolis-team_14: 5229004203907085112
+      core-acropolis-team_15: -4687339222607244695
+      core-acropolis-team_16: 5747918656160432058
+      core-acropolis-team_17: 1274796894188418175
+      core-acropolis-team_18: 196610197227125002
+      core-acropolis-team_19: 8479684245570469854
+      core-acropolis-team_2: 5450419382364850763
+      core-acropolis-team_20: 7875884463430229964
+      core-acropolis-team_3: -982809245640883166
+      core-acropolis-team_4: 1070365167473910288
+      core-acropolis-team_5: -3826180861263243768
+      core-acropolis-team_6: 6358510556186488706
+      core-acropolis-team_7: -759296344691907193
+      core-acropolis-team_8: -6512481936753673916
+      core-acropolis-team_9: 9089639209660695584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
